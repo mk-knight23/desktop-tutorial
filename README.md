@@ -7,6 +7,8 @@ mk knight
 
 add
 
+new 1
+
 delete
 
 update
