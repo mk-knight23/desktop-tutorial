@@ -8,6 +8,7 @@ mk knight
 add
 
 new 1
+new 2
 
 delete
 
