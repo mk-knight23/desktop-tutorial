@@ -58,7 +58,6 @@ function App() {
   return (
     <main>
       <div className='block bcg-black'></div>
-      <h1>MK KNIGHT</h1>
       <div className='block'>
         <div className='container'>
           <img
@@ -113,6 +112,7 @@ function App() {
           </button>
         </div>
       </div>
+      <h1>MK KNIGHT</h1>
     </main>
   )
 }
